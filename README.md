@@ -17,3 +17,9 @@ The aim is to measure the height of moving slugs in a video by applying segmenta
    - We apply opening operation to remove some noise belonging to the tube region
    
    ![alt text](https://github.com/LefdRida/slug-detection/blob/main/images/opentreshholded.bmp)
+
+## Result
+
+The final result is the following spatiotemporal image which show how the height of each slug, in the video, is changing during its passage through the tube:
+
+![alt text](https://github.com/LefdRida/slug-detection/blob/main/images/resultvid1.jpg)
