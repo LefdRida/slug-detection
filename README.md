@@ -22,4 +22,4 @@ The aim is to measure the height of moving slugs in a video by applying segmenta
 
 The final result is the following spatiotemporal image which show how the height of each slug, in the video, is changing during its passage through the tube:
 
-<img src="https://github.com/LefdRida/slug-detection/blob/main/images/resultvid1.jpg" height="400" width="200"/>
+<img src="https://github.com/LefdRida/slug-detection/blob/main/images/resultvid1.jpg" height="400" width="150"/>
